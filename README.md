@@ -28,3 +28,6 @@ This project uses an SSD1306 OLED display to create an animation of falling snow
 1. **Arduino IDE**: Download and install from the [official website](https://www.arduino.cc/en/software).
 2. **Adafruit SSD1306 Library**: Install via the Arduino Library Manager.
 3. **Adafruit GFX Library**: Install via the Arduino Library Manager.
+
+## Example
+<img src="Wrrf-winter.gif" width="45%" />
