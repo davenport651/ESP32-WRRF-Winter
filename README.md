@@ -1,4 +1,4 @@
-# Water Treatment Plant with Snowfall and poop emoji on OLED Display 🎄❄️
+# Water Treatment Plant with Snowfall and poop emoji on OLED Display 💩❄️
 
 This project uses an SSD1306 OLED display to create an animation of falling snowflakes, asterisks (to emulate larger snowflakes), poop emojis, and a single falling municipal logo over top of a water treatment plant. The project is implemented using an Arduino-compatible microcontroller and the Adafruit SSD1306 and GFX libraries.
 
